@@ -1,0 +1,23 @@
+CRABUUU RAVEUUUUUUUUU
+
+
+Intro:
+
+
+The Chase (build up):
+
+
+Baseline:
+
+
+Chorus:
+
+
+Drums:	
+
+
+
+Find these functions 
+
+FastLED.delay()
+decrement the delay
