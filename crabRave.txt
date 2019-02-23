@@ -2,22 +2,49 @@ CRABUUU RAVEUUUUUUUUU
 
 
 Intro:
+	"crabs" moving back and forth at random intervals
+	back and forth segments
+
+
+Slow Lead:
+	brightness fade in
+		all lights fade in at the same time
+		individual lights fade in quickly at random, all lights faded in for the chase
+	blue
+	blue to other colors fade(purple)
+	light blue "streamers (skip)" go across from both sides at seperate intervals
+
+
+The Tide:
+	one stream that dims slower as it increases in length
 
 
 The Chase (build up):
+	right before the drop, streams stop and "tide" comes in
+	"twinkling" or "color blurps" that fade
+	remove Intro
+
+
 
 
 Baseline:
+	color swapping
+	change saturation
+
 
 
 Chorus:
 
 
+
 Drums:	
+	full flash (very fast)
 
 
 
-Find these functions 
+
+
+Find these functions
 
 FastLED.delay()
 decrement the delay
